@@ -119,6 +119,7 @@ https://bellinsys.com/
   }
 
   #team, 
+  #Delivery,
   #menu,
   #testimonial {
     text-align: center;
@@ -638,7 +639,7 @@ https://bellinsys.com/
 
 
   /*---------------------------------------
-      FEEDBACK             
+      FEEDBACK           
   -----------------------------------------*/
 
   #testimonial {
@@ -839,7 +840,7 @@ https://bellinsys.com/
   .social-icon li a {
     border-radius: 100px;
     color: #ce3232;
-    font-size: 30px;
+    font-size: 35px;
     width: 45px;
     height: 45px;
     line-height: 45px;
