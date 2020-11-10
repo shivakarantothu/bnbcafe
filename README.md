@@ -1,2 +1,2 @@
-# bnbcafe.github.io
-Project B
+# shivakarantothu.github.io
+My Personal Website
